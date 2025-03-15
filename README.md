@@ -90,7 +90,7 @@ Implement authentication logic
 
 Clone the repository:
 
-git clone https://github.com/your-repo/propman-beta.git
+git clone https://github.com/enterprise220/propman-beta.git
 cd propman-beta
 
 Install dependencies:
